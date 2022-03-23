@@ -1,752 +1,150 @@
-순서,구분,음식명,영문,음식설명,
-1,,가지볶음,stir-fried Eggplant,"Lightly salted eggplant stir-fried with minced green onion, garlic, and soy sauce. This is a nutritious and vitamin-rich side dish that is easy to make and great for overcoming fatigue.",
-2,젓갈,간장게장,Crab Marinated in Soy Sauce,"A marinated crab dish. The crab is marinated for three days in soy sauce, then the soy sauce is poured out, boiled, and poured back over the crab. It is left to sit for another three days before serving.",
-3,구이,갈비구이,Marinated and Grilled Beef Short Ribs,"Beef short ribs marinated in a mixture of soy sauce, green onions, garlic, black pepper, sugar and sesame oil for a few hours, then grilled. Marinated short ribs are called yangnyeom-galbi and ribs which are not marinated are called saenggalbi. Galbi-gui is also known as bulgalbi. This is one of the most popular dishes in Korea.",
-4,찜,갈비찜,Braised Short Ribs,"Beef short ribs cut into chunks, seasoned with soy sauce, garlic, sugar and other spices, then simmered over a long period with pieces of Korean radish, carrots, chestnuts, jujubes, and ginkgo nuts. The dish is topped with julienned egg garnish and ground pine nuts.",
-5,"국,탕",갈비탕,Short Rib Soup,,
-6,구이,갈치구이,Grilled Hairtail,"Hairtail (a long, flat silver fish) cut into 10 centimeter lengths and grilled with salt.",
-7,조림,갈치조림,Braised Hairtail,"Hairtail (a long, fiat silver fish) cut into l0 centimeter lengths and braised with white radish or other vegetables in soy sauce until reduced.",
-8,볶음,감자볶음,Sauteed Potato,Julienned potatoes sauteed in oil and served as a side dish.,
-9,"전,적",감자전,Pan-fried Potato,Thin slices of potato dipped in a flour batter and pan-fried.,
-10,조림,감자조림,Braised Potato,"Cubed potatoes braised with fish or dried anchovies, soy sauce and oil. Served as a side dish.",
-11,김치,갓김치,Mustard Leaf Kimchi,"A kimchi made of gat, a kind of mustard leaf. The stems and leaves are seasoned with pickled anchovy sauce. The strong flavor of the mustard leaf and the anchovy is what makes this kimchi popular.",
-12,,건새우볶음,Stir-fried Dried Shrimp,,
-13,떡,경단,Sweet Rice Balls,"Rice cake made with glutinous rice flour, rolled into balls and cooked in boiling water. The cooked rice balls are then rolled in ground soybeans or red beans.",
-14,,계란말이,Rolled Omelet,"Eggs mixed with chopped green onions, carrots, and onions, fried and rolled up.",
-15,,계란찜,Steamed Eggs,"Similar to egg soufflé, this steamed egg dish is made with eggs well mixed with chopped mushroom, fishcake, and other ingredients, and seasoned with saeujeot (salted shrimp) or salt. Its soft texture and beautiful color are particularly appealing to children and the elderly.",
-16,"국,탕",계란탕,Egg Soup,Soup made by adding beaten eggs and chopped green onions to a boiling meat or vegetable broth.,
-17,,계란후라이,Fried Egg,,
-18,구이,고등어구이,Grilled Mackerel,Mackerel sprinkled with salt and grilled.,
-19,조림,고등어조림,Braised Mackerel,"Mackerel seasoned with soy sauce, green onions, garlic and red chili pepper powder, then braised over low heat until reduced.",
-20,나물,고사리나물,Fiddlehead Namul,"Side dish of fiddleheads that have been dried, soaked in water, then lightly pan-fried and seasoned.",
-21,,고추장진미채볶음,Stir-fried Dried Squid Strips,"Ojingeochae is made by seasoning squid with sugar and salt and then shredding it after it is dried. Also called “jinmichae,” ojingeochae is made by adding shredded squid to a boiling gochujang (red chili paste) sauce in an oily pan.",
-22,,고추튀김,Deep-fried Chili Pepper,,
-23,"국,탕",곰탕,Thick Beef Soup,Soup made from a stock of beef bones simmered for eight to twelve hours. The broth has a milky appearance and the meat is very tender. Gomtang is not seasoned during the cooking process and is served with salt and chopped green onions on the side so it can be seasoned to taste at the table. This soup is generally served with kkakdugi (a kimchi made of radishes).,
-24,구이,곱창구이,Grilled Beef Tripe,Beef tripe seasoned with spices or salt and grilled.,
-25,전골,곱창전골,Spicy Beef Tripe Hot Pot,"A spicy, flavorful hot pot of vegetables and seasoned beef tripe cooked in a beef broth.",
-26,,과메기,Half-dried Saury,"Gwamegi refers to saury half-dried through repeated cycles of freezing and thawing in a dark space. For this dish, remove the bones and skin the gwamegi and serve with fresh brown seaweed, garlic, green pepper, and a vinegar-based gochujang.",
-27,밥,김밥,Rice Rolls in Laver,"To make this colorful roll, rice is spread on a dried laver sheet with beef, fried egg, pickled radish, and various steamed vegetables, then rolled and cut into slices.",
-28,밥,김치볶음밥,Fried Rice with Kimchi,Rice fried with chopped kimchi. Chopped beef and other ingredients can also be added.,
-29,"전,적",김치전,Kimchi Pancake,Fried pancakes made with finely chopped kimchi in a flour and egg batter.,
-30,찌개,김치찌개,Kimchi Stew,A thick stew made from kimchi simmered with various kinds of meat.,
-31,,김치찜,,,
-32,김치,깍두기,Diced Radish Kimchi,"Kimchi made of diced white radish. The radish pieces are first salted and then mixed with the traditional kimchi sauce of red chili pepper powder, fish sauce, garlic, and green onions. ",
-33,장아찌,깻잎장아찌,Pickled Wild Sesame Leaves,A pickled side dish made of wild sesame leaves marinated in soy sauce. Other versions include sesame leaves pickled in soybean paste or fish sauce.,
-34,,꼬막찜,Steamed Cockles,"This dish is prepared by placing cleaned and parboiled cockles in a bowl with the top shells removed and drizzling them with a sauce. Among the various kinds of cockles, true cockle is considered to be the best due to its chewy texture and savory taste.",
-35,조림,꽁치조림,Braised Mackerel Pike,"Mackerel pike seasoned with green onions, garlic and a mixture of other ingredients (such as red chili pepper paste or soy sauce) and simmered over low heat.",
-36,,꽈리고추무침,Shishito Peppers Salad,,
-37,,꿀떡,Honey-filled Rice Cake,"This dish is prepared by placing cleaned and parboiled cockles in a bowl with the top shells removed and drizzling them with a sauce. Among the various kinds of cockles, true cockle is considered to be the best due to its chewy texture and savory taste.",
-38,김치,나박김치,Radish Water Kimchi,"A slightly pink kimchi made with Chinese cabbage, thinly sliced white radish, a large amount of water, and minari (a leafy vegetable resembling parsley) to give this kimchi a distinctive a flavor.",
-39,기타,누룽지,Browned Rice,"Crusty, browned rice made from the scorched part of steamed rice that is usually stuck to the bottom of the rice pot. lt is eaten in hot water as a browned rice tea after a meal or fried as a crispy snack. Also called nurunbap.",
-40,,닭갈비,Spicy Stir-fried Chicken,"Chicken pieces marinated in a gochujang, and stir-fried in a flat grill pan with cabbage, sweet potato, carrots, and tteok (rice cakes). A local dish of Chuncheon city in Gangwon Province.",
-41,,닭개장,Spicy Chicken Soup,"This dish features shredded chicken meat boiled with vegetables and edible plants and seasoned with chili pepper and sesame oil. To make it, a whole chicken is boiled, and the water is sieved and used as the both for the soup.",
-42,,닭볶음탕,Spicy Braised Chicken,"This dish is a stew of chicken, potato, and onion with seasoning. At the end of the meal, any leftover broth is combined with rice and fried.",
-43,구이,더덕구이,Grilled Deodeok,Deodoek root marinated in soy sauce and red chili pepper paste and then grilled.,
-44,,도라지무침,Bellflower Root Fresh Salad,"Peeled and shredded fresh bellflower root seasoned with a mixture of sugar, vinegar, and red chili powder. This salad is often tossed with cucumbers sliced sideways as well.",
-45,묵,도토리묵,Acorn Starch jelly,"A firm jelly made of acorn starch, often served with a seasoned soy sauce.",
-46,,동그랑땡,Meat Fritters,"A mixture of ground beef or pork and minced vegetables molded into round shapes, flour-coated, egg-battered, and pan-fried.",
-47,찌개,동태찌개,Frozen Pollack Stew,"A spicy stew made of pollack and vegetables. The pollack is first cooked in a clear broth, then white radish, red chili pepper powder or red chili pepper paste, garlic and green onions are added and cooked until thick.",
-48,찌개,된장찌개,Soybean Paste Stew,A stew made of soybean paste (doenjang) and various vegetables. Similar to soybean paste soup (doenjangguk) but much thicker.,
-49,,두부김치,Bean Curd with stir-fried Kimchi,Wellaged sour kimchi stir-fried with thinly-sliced pork shoulder or belly and served with warm bean curd.,
-50,조림,두부조림,Braised Pan-fried Dubu,A dish of pan-fried slices of dubu (soybean curd / tofu) covered with soy sauce and braised until the sauce is absorbed by the dubu.,
-51,견과류,땅콩조림,Braised Peanuts,"For this dish, peanuts are boiled in water and braised in a mixture of soy sauce, syrup, sugar, and garlic over low heat. Not only does it taste great, but it is packed with nutrients as well, as 10 peanuts meet the daily requirement for vitamin E.","땅콩에 물을 넣고 삶다가 진간장, 물엿, 설탕, 마늘을 넣어 약한 불에서 졸인 조림이다. 고소한 맛이 일품이고, 땅콩 10알이면 비타민 E의 하루 필요량을 충족시킬 수 있어 영양도 좋다."
-52,구이,떡갈비,Grilled Short Rib Meat Patties,"Square patties made of ground beef rib meat mixed with a seasoning of soy sauce, sugar, green onions, garlic, sesame seeds, and sesame oil, and then grilled.","간장, 설탕, 파, 마늘, 참기름의 양념에 갈은 소갈비로 만든 네모난 패티를 넣고 굽는다."
-53,떡국,떡국_만두국,Sliced Rice Pasta Soup with Dumplings,A soup of sliced ovals of rice pasta in a clear beef broth with dumplings.,쌀 파스타를 썰어 맑은 쇠고기 육수에 만두를 넣은 국물.
-54,구이,떡꼬치,Brochette of Rice Pasta with Vegetables,A grilled brochette of rice pasta and vegetables.,쌀 파스타와 야채를 구운 브로셰.
-55,볶음,떡볶이,Stir-fried Rice Cake,Sliced rice cake bar (garaetteok) or thin rice cake sticks (Tteokbokkitteok) stir-fried in a spicy gochujang sauce with vegetables and fish cakes.,"한입 크기로 썬 가래떡이나 가늘게 뽑은 떡볶이용 떡에 채소, 어묵을 함께 넣고 고추장 양념으로 볶은 음식이다."
-56,,라면,"Ramen, instant noodles",ready-to-eat food with a separate powder soup or boiled noodles in water after cooking noodles in steam and frying them in oil,"국수를 증기로 익힌 뒤 기름에 튀겨 말린 것에 분말 스프를 별도로 첨부한 즉석 식품, 또는 그것을 물에 넣고 끓인 요리"
-57,,라볶이,Stir-fried Instant Noodle,"This dish is tteokbokki with ramen noodles. Tteokbokki is a spicy dish made with rice cake, vegetables, and fish cake, all stir-fried together in a gochujang (red chili paste) sauce. It is a popular snack favored by children and women.","떡과 채소, 어묵을 넣고 고추장 양념에 볶는 떡볶이에 라면을 함께 넣고 끓이는 음식이다. 어린이와 여성들이 간식으로 자주 먹는다."
-58,,막국수,Buckwheat Noodles,"A local specialty of Gangwon Province, Makguksu (buckwheat noodles) is made of buckwheat noodles in a kimchi soup. Gangwon Province is famous for its buckwheat noodle dishes, as it is a highland region with an environment ideal for growing buckwheat.",메밀국수를 김칫국물에 말아 먹는 강원도 향토음식으로 메밀막국수라고도 한다. 강원도는 고원지대로 메밀의 생육조건에 적합해 다른 지방보다 막국수가 발달해 왔다.
-59,만두,만두,Steamed Dumplings,"Korean dumplings made of thinly rolled flour dough folded with a filling of ground meat and vegetables. Served boiled, steamed, deep-fried, or pan-fried.",밀가루를 반죽해 얇게 민 다음 동그랗게 모양을 찍어 고기나 채소로 만든 소를 넣고 빚어 삶거나 찐 음식이다. 기름에 튀기거나 굽기도 한다.
-60,"국,탕",매운탕,Spicy Fish Stew,"A traditional fish stew seasoned generously with red chili powder or gochujang. The fish most commonly used here are haddock, rock cod, and pollack.","생선을 주재료로 하여 채소, 두부 등을 넣고 매운 고춧가루 양념장을 풀어 얼큰하게 끓인 탕이다. 대구, 우럭, 명태 등으로 끓인 매운탕을 즐겨 먹는다."
-61,패류,멍게,Sea Squirt,Sea squirt has red leathery skin but the inside flesh is yellow and soft. The yellow flesh is a delicacy and is served raw with a spicy dipping sauce of vinegared red chili pepper paste.,멍게는 붉은 가죽 같은 피부를 가지고 있지만 속살은 노랗고 부드럽다. 노란 살은 별미이며 초무침 고추장의 매콤한 양념과 함께 생으로 제공됩니다.
-62,조림,메추리알장조림,Braised Quail Eggs in Soy Sauce,"Boiled and peeled quail eggs braised in a mixture of soy sauce, chopped garlic, ginger, sugar, and water, this popular Korean side dish is usually eaten with rice.","삶은 메추리알의 껍질을 까서 간장, 마늘, 생강, 설탕, 물을 넣고 조린 것이다. 밑반찬으로 많이 활용한다."
-63,볶음,멸치볶음,Sauteed Dried Anchovies,A side dish of dried anchovies pan-fried with soy sauce or red chili pepper paste and glazed with sugar or maltose syrup.,말린 멸치를 간장이나 고추장에 볶아 설탕이나 맥아당 시럽을 입힌 반찬.
-64,"국,탕",무국,Radish and Beef Soup,A soup made of white radish and seasoned beef.,흰 무와 양념한 소고기로 만든 국물.
-65,생채,무생채,Julienned Radish Salad,"A salad of julienned white radish dressed with a mixture of red chili pepper powder, vinegar, salt, and sugar. Also called muchae-muchim.","고춧가루, 식초, 소금, 설탕을 섞은 채 썬 무 샐러드. 무채무침이라고도 합니다."
-66,면,물냉면,Buckwheat Noodles in Chilled Broth,A soup with buckwheat noodles and various toppings served in a chilled broth. The version with a spicy sauce instead of the soup is called bibim­naengmyeon.,차가운 국물에 메밀국수와 각종 토핑을 얹은 국물. 국물 대신 매운 양념이 들어간 것을 비빔냉면이라고 한다.
-67,회,물회,Cold Raw Fish Soup,"In this dish, sliced fish and vegetables are mixed with seasoned spicy hot pepper paste and cold soup is added to it. Whitesaddled reeffish, squid, conch, cuttlefish, and abalone are commonly used.","생선을 잘게 썰어 채소와 함께 양념한 고추장으로 버무린 뒤 물을 부어 시원한 국물까지 마시는 별미 음식으로 자리돔, 오징어, 소라, 한치, 전복 등이 사용된다."
-68,"국,탕",미역국,Seaweed Soup,"A soup made of seaweed that is soaked, drained, then cooked in a broth of beef or dried anchovies. This soup is traditionally given to mothers after childbirth.",김을 불려서 물기를 뺀 후 쇠고기나 멸치 국물에 끓인 국물입니다. 이 수프는 전통적으로 산후 산모에게 주는 수프입니다.
-69,생채,미역줄기볶음,Spicy Seaweed,This is desalinated brown seaweed stems stir-fried in a pan. The affordability and chewy texture of this food makes it an ideal side dish.,"미역줄기는 미역의 줄기를 얇고 길게 쪼개 놓은 것이다. 물에 씻어 소금기를 뺀 미역줄기를 팬에 볶아서 만드는데, 저렴한 가격과 꼬들꼬들한 맛이 장점이다."
-70,김치,배추김치,Chinese Cabbage Kimchi,"The most basic type of kimchi, made of whole Chinese cabbages. The cabbages are cut in half and then salted or soaked in salt water. Alter the leaves have lost some of their water, a mixture of julienned white radish, garlic, red chili pepper powder, green onions, fish sauce and ginger is spread over the layers of leaves. The cabbages are put in jars and left to season until the flavor is fully absorbed.","가장 기본적인 종류의 김치는 통배추로 만들어집니다. 양배추는 반으로 잘라서 소금에 절이거나 소금물에 담근다. 물기를 잃은 잎사귀는 무채, 마늘, 고춧가루, 대파, 생선소스, 생강을 섞어 잎사귀 위에 얹어 놓는다. 양배추는 항아리에 넣고 맛이 완전히 흡수될 때까지 간한다."
-71,김치,백김치,White Chinese Cabbage Kimchi,A version of cabbage kimchi with very small amounts of red chili pepper powder used only for seasoning the julienned radishes in the sauce.,양배추김치에 고춧가루를 극소량 첨가하여 양념에 절인 무를 양념하는 데만 사용하는 배추김치입니다.
-72,쌈,보쌈,Chinese Cabbage Wraps with Pork,Park and kimchi wrapped in steamed cabbage leaves. Also called jeyuk-bossam or kimchi-bossam.,찐 배추잎에 싸인 박씨와 김치. 제육보쌈 또는 김치보쌈이라고도 불린다.
-73,김치,부추김치,Chive Kimchi,"A kimchi made of chives mixed with fish sauce, red chili pepper powder, crushed garlic and some glutinous rice starch.","부추에 생선소스와 고춧가루, 다진 마늘과 찹쌀 전분을 섞은 김치."
-74,"국,탕",북엇국,Dried Pollack Soup,"A soup made of dried pollack shredded by hand in a clear broth with garlic, green onions and a beaten egg added just before serving.","맑은 국물에 마늘, 대파, 달걀을 넣고 끓인 황태로 만든 국물."
-75,구이,불고기,Bulgogi (Korean Barbecue),"Thin slices of beef marinated in a mixture of soy sauce, sugar, green onions, garlic, black pepper, sesame seeds, and sesame oil and grilled at the table. Bulgogi is one of Korea's most popular beef dishes.","얇게 썬 쇠고기에 간장, 설탕, 파, 마늘, 후추, 참기름, 참기름을 섞어 재워 식탁에서 굽는다. 불고기는 한국에서 가장 인기 있는 쇠고기 요리 중 하나이다."
-76,면,비빔냉면,Mixed Buckwheat Noodles,"Chilled buckwheat noodles mixed in a spicy sauce and topped with sliced cold meat, sliced Korean pear, cucumbers, and other vegetables.","냉면을 매운 소스에 버무려 찬 고기, 배, 오이 등 채소를 얹은 요리."
-77,밥,비빔밥,Bibimbap (Rice Mixed with Vegetables and Beef),"One of the most popular Korean dishes, bibimbap consists of a bowl of rice topped with fresh and cooked vegetables and red chili pepper paste. Everything is mixed together before eating. Seasoned raw beef, grilled beef, or a fried egg can also be added. There are many styles and regional variations of this dish. The cities of Jeonju and Jinju are famous for their distinctive bibimbap and there are other variations such as hot stone pot (dolsot) bibimbap, soybean sprout bibimbap, and vegetable bibimbap. Goldongban is the royal court term for bibimbap.","가장 인기 있는 한국 음식 중 하나인 비빔밥은 밥 위에 신선하고 조리된 야채와 고추장을 얹은 밥 한 그릇으로 구성되어 있다. 먹기 전에 모든 것을 함께 섞는다. 양념한 생고기, 구운 쇠고기, 계란 프라이도 추가 가능합니다. 이 요리에는 다양한 스타일과 지역별 변형이 있습니다. 전주와 진주는 독특한 비빔밥으로 유명하며 돌솥비빔밥, 콩나물비빔밥, 채소비빔밥 등 다양한 종류가 있다. 골동반은 비빔밥의 궁중 용어이다."
-78,회,산낙지,Live Octopus,"Live octopus cut into bite-sized pieces and eaten with a dipping oil or vinegar-based gochujang (red chili paste) sauce. This is a popular side dish with soju, a clear, distilled Korean alcoholic beverage.",살아있는 낙지를 잘게 썰어 기름장이나 초고추장에 찍어 먹는 음식으로 주로 소주와 함께 즐겨 먹는다.
-79,구이,삼겹살,Grilled Pork Belly,Fat-streaked pork belly grilled and dipped in salt or ssamjang (red soybean paste dip). Also eaten wrapped in lettuce leaves.,돼지의 배 부위로 살코기와 지방이세 겹으로 되어 있어 육질이 부드럽고 고소하다. 양념을 하지 않고 구워 소금이나 쌈장을 찍어 먹고 채소에 쌈을 싸 먹기도 한다.
-80,"국,탕",삼계탕,Chicken Ginseng Soup,"A soup made of a whole young chicken stuffed with ginseng, sticky rice, garlic, jujubes (Korean dates), and chestnuts, then cooked in a clear broth. With meat, vegetables, rice and hot soup all in one dish, this soup is popular for its wholesome flavor and health benefits.","통닭에 인삼, 찹쌀, 마늘, 대추, 밤을 넣고 맑은 국물에 끓인 국물. 고기, 야채, 밥, 뜨거운 국물이 한 접시에 들어 있는 이 국물은 건강한 맛과 건강에 이롭기 때문에 인기가 있습니다."
-81,밥,새우볶음밥,shrimp fried rice	,Cooked rice pan-fried with chopped shrimp and vegetables.,잘게 썬 고기와 야채를 넣고 볶은 밥.
-82,마른찬,새우튀김,Deep-fried Shrimp,"Shrimp coated in a flour and egg batter, then deep-fried.",새우에 밀가루와 달걀 반죽을 입히고 튀긴 것.
-83,"전,적",생선전,Pan-fried Fish Fillets,"Fish fillet coated in flour, dipped in egg, and pan-fried. Commonly used fish for this dish include halibut, cod, pollack and shrimp. Also called jeonyueo.","생선살을 밀가루에 묻혀 달걀에 찍어 부친다. 이 요리에 일반적으로 사용되는 생선에는 광어, 대구, 명태, 새우 등이 있습니다. 전어라고도 합니다."
-84,,소세지볶음,	stir-fried sausage platter,"Julienned potatoes sauteed in oil and served as a side dish. A stir-fry of mushrooms, onions and beef with seasoned soy sauce.","채썬 감자는 기름에 볶아 반찬으로 제공되었다. 버섯, 양파, 쇠고기를 양념한 간장에 볶음."
-85,떡,송편,Half-moon Rice Cake,"Half-moon shaped rice cakes made of rice flour dough stuffed with various fillings. A traditional festival dish served on Chuseok, the Korean harvest festival.","쌀가루 반죽에 여러 가지 속을 채워 만든 반달 모양의 떡입니다. 추석에 먹는 전통 축제 음식, 한국의 수확 축제입니다."
-86,편육,수육,Boiled Beef Slices,"Pieces of beef cooked in boiling water, then cut into thin slices and served hot.",끓는 물에 익힌 소고기 조각들을 얇게 썰어 뜨겁게 내놓는다.
-87,음청류,수정과,Cinnamon Punch with Dried Persimmon,"A sweet punch is made of ginger, cinnamon sticks and sugar simmered together in water. Dried persimmons are added after cooling and the punch is served with a few pine nuts floating on top. One of Korea's most popular dessert drinks.","달콤한 펀치는 생강, 계피 스틱, 설탕을 물에 넣고 끓여 만듭니다. 곶감은 식힌 후에 넣고 잣 몇 개를 위에 띄워 내놓는다. 한국에서 가장 인기 있는 디저트 음료 중 하나입니다."
-88,수제비,수제비,Sujebi Soup,"A soup with summer squash, other vegetables, and small dumplings. The dumplings are made of flour dough that is hand broken into little pieces and dropped into the hot soup right before serving.","여름 호박, 다른 야채, 작은 만두가 들어간 수프. 만두는 밀가루 반죽으로 만들어지며, 밀가루 반죽은 손으로 잘게 부순 후 상에 내기 직전에 뜨거운 국물에 떨어뜨린다."
-89,나물,숙주나물,Mung Bean Sprout Namul,A side dish of mung bean sprouts blanched in salt water and seasoned.,녹두콩나물을 소금물에 데쳐 양념한 반찬.
-90,순대,순대,Korean-style Blood Sausage,"A sausage of pork blood, vegetables, and rice or noodles.","돼지고기 피, 야채, 쌀이나 국수 소시지."
-91,찌개,순두부찌개,Spicy Soft Dubu Stew,"A spicy red stew with soft dubu (soybean curd / tofu), soybean paste (doenjang), fish sauce, clams, summer squash, and some meat.","부드러운 두부, 된장, 어장, 바지락, 여름 호박, 그리고 약간의 고기를 곁들인 매콤한 홍조림."
-92,,시금치나물,Cooked Spinach Namul,"Parboiled spinach seasoned with salt, chopped green onion and garlic, sesame oil, and sesame seeds. Spinach is used to make salads and as a filling for gimbap.","끓는 물에 데친 시금치를 소금, 다진 파ㆍ마늘, 참기름, 깨소금으로 무친 것이다. 나물로도 많이 먹지만, 김밥의 재료로도 많이 쓰인다."
-93,찌개,시래기국,Dried Radish Leaf Soup,A soup of dried radish or Chinese cabbage leaves that have been boiled in water and added to a soybean paste (doenjang) broth.,된장 육수에 무말랭이나 배추잎을 넣고 끓인 국물.
-94,음청류,식혜,Rice Punch,"A traditional sweet dessert drink made of malt and rice. When served, there are often rice grains floating on top. Also called dansul.","맥아와 쌀로 만든 전통적인 달콤한 디저트 음료. 상에 올릴 때, 종종 밥알이 위에 떠 있다. 단술이라고도 합니다."
-95,,알밥,Fish Roe Rice,"Warm rice topped with raw fish roe, thin slices of danmuji (yellow pickled radish), julienned cucumber and carrot, and chopped kimchi and served in a heated ttukbaegi (earthen pot) greased with sesame oil. The way the fish eggs pop when chewed makes this dish unique and fun to eat.","뜨거운 밥에 날치 알을 넣어 비벼 먹는 밥이다. 뜨겁게 달군 뚝배기에 참기름을 바르고, 밥을 담은 후, 잘게 썬 단무지, 당근, 오이, 김치, 날치 알 등을 올려 비벼 먹는데, 입안에서 날치 알이 톡톡 터지는 재미가 있다."
-96,,애호박볶음,Stir-fried Zucchini,"Sliced zucchini stir-fried with chopped garlic and green onion and seasoned with salted shrimp in an oiled pan. A vegetable that reaches its peak in summer, zucchini is tasty and nutritious, as it is rich in vitamins A and C. It is also good for digestion.","기름을 두른 팬에 애호박과 다진 마늘, 파, 새우젓을 넣고 볶은 나물이다. 여름철이 제철로, 맛뿐 아니라 비타민 A와 C가 풍부해 소화 흡수도 잘된다."
-97,한과,약과,Deep-fried Honey Cookies,"Deep-fried cookies made from a dough of wheat flour, sesame oil, soju, and honey. The cookies are pressed in a wood mold into round or flower shapes, then deep-fried and dipped in honey.","밀가루, 참기름, 소주, 꿀 반죽으로 만든 튀김 쿠키. 쿠키는 나무 틀에 눌러 동그란 모양이나 꽃 모양으로 만든 다음 튀겨서 꿀에 담근다."
-98,떡,약식,Sweet Rice with Nuts and Jujubes,"Steamed sticky rice made with chestnuts, jujubes (Korean dates), honey, pine nuts and cinnamon. This dish is a sweet snack similar to rice cake.","밤, 대추, 꿀, 잣, 계피로 만든 찹쌀찜. 이 요리는 떡과 비슷한 달콤한 간식입니다."
-99,젓갈,양념게장,Spicy Seasoned Crab,Crabs marinated in a spicy sauce with a large amount of red chili pepper powder.,고춧가루를 듬뿍 뿌려 매운 양념에 재운 게장.
-100,,양념치킨,Seasoned Fried Chicken,"This dish is seasoned chicken cut into pieces, deep- fried, and mixed with soy sauce, gochujang, or other sauces. It has a mild yet spicy taste that makes it ideal for a snack, with or without alcoholic beverages.",적당한 크기로 자른 닭고기를 밑간하여 식용유에 튀겨 간장이나 고추장 등으로 만든 양념에 버무린 음식이다. 순하고 부드러우며 매콤한 맛으로 간식이나 안주로 즐겨 먹는다.
-101,,어묵볶음,Stir-fried Fish Cake,Season the fish cake and fry it.,
-102,,연근조림,Glazed Lotus Roots,"Round slices of lotus root simmered in soy sauce, sugar and rice wine until glazed. Garnished with sesame seeds.",
-103,,열무국수,Chilled Buckwheat Noodles with Radish Kimchi,Buckwheat noodles served in a chilled broth with chopped radish kimchi.,
-104,,열무김치,Young Summer Radish Kimchi,A kimchi made of young summer radish (smaller roots with larger leaves). This kimchi has a lot of water and is lightly seasoned.,
-105,,오이소박이,Stuffed Cucumber Kimchi,"A kimchi made of cucumbers cut into three to four sections, slit lengthwise, and stuffed with a filling of green onions, garlic, ginger and red chili pepper powder.",
-106,,오징어채볶음,Sauteed Dried Squid Strips,Thin strips of dried squid sauteed with soy sauce or red chili pepper paste.,
-107,,오징어튀김,Deep-fried?Squid?,Squid coated in flour and fried,
-108,,우엉조림,Glazed Burdock,"Burdock simmered in soy sauce, sesame oil, and sugar until glazed and garnished with sesame seeds and red chili pepper threads.",
-109,,유부초밥,Fried Tofu Rice Balls,Season the fried tofu with rice.,
-110,,육개장,Spicy Beef and Leek Soup,"A soup made with beef, green onions, fiddleheads, and other vegetables in a spicy red broth seasoned with red chili pepper powder, garlic, and soy sauce.",
-111,,육회,Korean Beef Steak Tartare,"Thinly sliced raw beef seasoned with soy sauce, salt and sesame oil. Similar to steak tartare, this dish is usually served with julienned Korean pear and garlic.",
-112,,잔치국수,Banquet Noodles,"A simple noodle dish of thin wheat noodles in a clear broth and topped with julienned egg garnish, sauteed beef, julienned summer squash and mushrooms. This dish was traditionally served at large banquets and feasts.",
-113,,잡곡밥,Multi-grain Rice,rice cooked with mixed grains,
-114,,잡채,Japchae (Clear Noodles Stir-fried with Vegetables),"Vegetables and beef pan-fried separately then mixed with clear noodles, soy sauce, and other seasonings. One of the most popular party dishes, this dish is often seen at special banquets.",
-115,,장어구이,Grilled Freshwater Eel,"Eel marinated in a sauce of red chili pepper paste, soy sauce, sugar, green onions, garlic and sesame oil and grilled. The eel can also be lightly steamed, coated with a mixture of soy sauce and sugar, and then grilled.",
-116,,장조림,Beef Chunks Braised in Soy Sauce,Pieces of beef braised in soy sauce and water until the meat turns dark and salty. The meat is then cut into smaller pieces for serving. This is one of the most traditional and popular beef side dishes.,
-117,,전복죽,Rice Porridge with Abalone,A savory rice porridge cooked with minced abalone.,
-118,,젓갈,Pickled Seafood,Sauce made of various kinds of fish or seafood that have been pickled in salt and fermented. This sauce can be served as a side dish or used as a seasoning for other dishes.,
-119,,제육볶음,Cooked Pork,Pork. Also refers to thinly sliced cooked pork.,
-120,,조개구이,Roasting clams,bake clams on fire. They put cheese on top of clams and put spicy sauce on them.,
-121,,조기구이,Grilled Yellow Croaker,Croaker salted and grilled.,
-122,,족발,Glazed Pig's Feet,"Pig's feet cooked in soy sauce, sugar, ginger and garlic until glazed.",
-123,,주꾸미볶음,Stir-fried Small Octopus,Seasoned webfoot octopus and stir-fry it,
-124,,주먹밥,Rice ball,marinate rice into a lump and shape,
-125,,짜장면,Black-bean-sauce noodles,Stir-fry vegetables and Black-bean-sauce over high heat and put them in noodles.,
-126,,짬뽕,Spicy Seafood Noodle Soup,Boil the noodles in the spicy soup with vegetables and seafood.,
-127,,쫄면,Spicy Cold Chewy Noodle,Mix the chewy noodles with vegetables and spicy seasoning.,
-128,,찜닭,Braised Spicy Chicken with Vegetables,Season the chicken with soy sauce or spicy sauce and cook it with vegetables,
-129,,총각김치,Whole Radish Kimchi,"A kimchi made of young white radishes used whole with the stems and leaves. The radishes are seasoned with red chili pepper powder, green onions, garlic, ginger and fish sauce, then left to cure. lt literally means bachelor kimchi, because the stems are reminiscent of the long ponytails of unmarried men in traditional times. Also called altari kimchi.",
-130,,추어탕,Loach Soup,"A thick, strongly flavored soup made of fresh loach simmered with vegetables, soybean paste (doenjang), and red chili pepper paste.",
-131,,칼국수,Home-style Noodle Soup,"A soup made of wheat flour noodles flattened and cut by hand, served in a hot chicken or beef broth and topped with clams, julienned summer squash, and a seasoning sauce.",
-132,,코다리조림,Simmered Half-dried Pollack,"Half-dried pollack marinated in a sauce of red chili pepper paste, soy sauce, sugar, green onions, ginger, sesame oil and black pepper, then simmered over low heat.",
-133,,콩국수,Noodles in Chilled White Bean Soup,Chilled white bean soup made of pureed soybeans served with noodles and garnished. with julienned cucumber and watermelon. Sometimes white sesame seeds are added to the puree. This dish is eaten in the hot summer.,
-134,,콩나물국,Soybean Sprout Soup,A clear soup with soybean sprouts.,
-135,,콩나물무침,Seasoned Soybean Sprout Namul,"Blanched bean sprouts seasoned with green onions, garlic, soy sauce and sesame oil. This is one of the most common side dishes served in Korean homes.",
-136,,콩자반,Glazed Black Beans,A side dish made of black beans simmered in soy sauce and sugar until glazed.,
-137,,파김치,Green Onion Kimchi,"A kimchi made with lightly salted green onions seasoned with pickled anchovy sauce, garlic and red chili pepper powder.",
-138,,파전,Green Onion Pancake,"Pancakes made of an egg, wheat flour and rice flour batter pan-fried with green onions, chives, beef, clams, mussels and other ingredients.",
-139,,편육,Pressed Meat,Beef or pork cooked in boiling water and pressed. Served in thin slices with seasoned soy sauce.,
-140,,피자,Pizza,Put cheese and vegetable meat on top of dough and cook.,
-141,,한과,Traditional Sweets,Many types of traditional Korean sweets and cookies. They vary according to ingredients and preparation method.,
-142,,해물찜,Braised Spicy Seafood,"Cook seafood such as crabs, conch, and octopus with spicy seasoning with rich vegetables.",
-143,,호박전,Pan-fried Summer Squash,"Squash sliced into thin round pieces, coated in flour and egg batter, and pan-fried.",
-144,,호박죽,Pumpkin Porridge,"A porridge made of fully ripe pumpkins steamed and mashed, then mixed with wheat flour or glutinous rice flour and simmered until thick. Sweetened with sugar or red beans.",
-145,,홍어무침,Sliced Raw Skate Salad,Cut the skate and season it with vegetables and spicy sauce.,
-146,,황태구이,Seasoned and Grilled Dried Pollack,"Freeze-dried pollack grilled with a seasoning of soy sauce, red chili pepper paste, green onions, garlic, sesame oil, sugar and black pepper.",
-147,,회무침,Spicy Raw Fish Salad,Season sashimi with vegetables and spicy sauce.,
-148,,후라이드치킨,Fried chicken,Coat the fried chicken with seasoned batter and fry it. have a variety of flavors,
-149,,훈제오리,Smoked Duck,"smoked duck with soft, low calories",
-150,,,,,
-151,,,,,
-152,,,,,
-153,,,,,
-154,,,,,
-155,,,,,
-156,,,,,
-157,,,,,
-158,,,,,
-159,,,,,
-160,,,,,
-161,,,,,
-162,,,,,
-163,,,,,
-164,,,,,
-165,,,,,
-166,,,,,
-167,,,,,
-168,,,,,
-169,,,,,
-170,,,,,
-171,,,,,
-172,,,,,
-173,,,,,
-174,,,,,
-175,,,,,
-176,,,,,
-177,,,,,
-178,,,,,
-179,,,,,
-180,,,,,
-181,,,,,
-182,,,,,
-183,,,,,
-184,,,,,
-185,,,,,
-186,,,,,
-187,,,,,
-188,,,,,
-189,,,,,
-190,,,,,
-191,,,,,
-192,,,,,
-193,,,,,
-194,,,,,
-195,,,,,
-196,,,,,
-197,,,,,
-198,,,,,
-199,,,,,
-200,,,,,
-201,,,,,
-202,,,,,
-203,,,,,
-204,,,,,
-205,,,,,
-206,,,,,
-207,,,,,
-208,,,,,
-209,,,,,
-210,,,,,
-211,,,,,
-212,,,,,
-213,,,,,
-214,,,,,
-215,,,,,
-216,,,,,
-217,,,,,
-218,,,,,
-219,,,,,
-220,,,,,
-221,,,,,
-222,,,,,
-223,,,,,
-224,,,,,
-225,,,,,
-226,,,,,
-227,,,,,
-228,,,,,
-229,,,,,
-230,,,,,
-231,,,,,
-232,,,,,
-233,,,,,
-234,,,,,
-235,,,,,
-236,,,,,
-237,,,,,
-238,,,,,
-239,,,,,
-240,,,,,
-241,,,,,
-242,,,,,
-243,,,,,
-244,,,,,
-245,,,,,
-246,,,,,
-247,,,,,
-248,,,,,
-249,,,,,
-250,,,,,
-251,,,,,
-252,,,,,
-253,,,,,
-254,,,,,
-255,,,,,
-256,,,,,
-257,,,,,
-258,,,,,
-259,,,,,
-260,,,,,
-261,,,,,
-262,,,,,
-263,,,,,
-264,,,,,
-265,,,,,
-266,,,,,
-267,,,,,
-268,,,,,
-269,,,,,
-270,,,,,
-271,,,,,
-272,,,,,
-273,,,,,
-274,,,,,
-275,,,,,
-276,,,,,
-277,,,,,
-278,,,,,
-279,,,,,
-280,,,,,
-281,,,,,
-282,,,,,
-283,,,,,
-284,,,,,
-285,,,,,
-286,,,,,
-287,,,,,
-288,,,,,
-289,,,,,
-290,,,,,
-291,,,,,
-292,,,,,
-293,,,,,
-294,,,,,
-295,,,,,
-296,,,,,
-297,,,,,
-298,,,,,
-299,,,,,
-300,,,,,
-301,,,,,
-302,,,,,
-303,,,,,
-304,,,,,
-305,,,,,
-306,,,,,
-307,,,,,
-308,,,,,
-309,,,,,
-310,,,,,
-311,,,,,
-312,,,,,
-313,,,,,
-314,,,,,
-315,,,,,
-316,,,,,
-317,,,,,
-318,,,,,
-319,,,,,
-320,,,,,
-321,,,,,
-322,,,,,
-323,,,,,
-324,,,,,
-325,,,,,
-326,,,,,
-327,,,,,
-328,,,,,
-329,,,,,
-330,,,,,
-331,,,,,
-332,,,,,
-333,,,,,
-334,,,,,
-335,,,,,
-336,,,,,
-337,,,,,
-338,,,,,
-339,,,,,
-340,,,,,
-341,,,,,
-342,,,,,
-343,,,,,
-344,,,,,
-345,,,,,
-346,,,,,
-347,,,,,
-348,,,,,
-349,,,,,
-350,,,,,
-351,,,,,
-352,,,,,
-353,,,,,
-354,,,,,
-355,,,,,
-356,,,,,
-357,,,,,
-358,,,,,
-359,,,,,
-360,,,,,
-361,,,,,
-362,,,,,
-363,,,,,
-364,,,,,
-365,,,,,
-366,,,,,
-367,,,,,
-368,,,,,
-369,,,,,
-370,,,,,
-371,,,,,
-372,,,,,
-373,,,,,
-374,,,,,
-375,,,,,
-376,,,,,
-377,,,,,
-378,,,,,
-379,,,,,
-380,,,,,
-381,,,,,
-382,,,,,
-383,,,,,
-384,,,,,
-385,,,,,
-386,,,,,
-387,,,,,
-388,,,,,
-389,,,,,
-390,,,,,
-391,,,,,
-392,,,,,
-393,,,,,
-394,,,,,
-395,,,,,
-396,,,,,
-397,,,,,
-398,,,,,
-399,,,,,
-400,,,,,
-401,,,,,
-402,,,,,
-403,,,,,
-404,,,,,
-405,,,,,
-406,,,,,
-407,,,,,
-408,,,,,
-409,,,,,
-410,,,,,
-411,,,,,
-412,,,,,
-413,,,,,
-414,,,,,
-415,,,,,
-416,,,,,
-417,,,,,
-418,,,,,
-419,,,,,
-420,,,,,
-421,,,,,
-422,,,,,
-423,,,,,
-424,,,,,
-425,,,,,
-426,,,,,
-427,,,,,
-428,,,,,
-429,,,,,
-430,,,,,
-431,,,,,
-432,,,,,
-433,,,,,
-434,,,,,
-435,,,,,
-436,,,,,
-437,,,,,
-438,,,,,
-439,,,,,
-440,,,,,
-441,,,,,
-442,,,,,
-443,,,,,
-444,,,,,
-445,,,,,
-446,,,,,
-447,,,,,
-448,,,,,
-449,,,,,
-450,,,,,
-451,,,,,
-452,,,,,
-453,,,,,
-454,,,,,
-455,,,,,
-456,,,,,
-457,,,,,
-458,,,,,
-459,,,,,
-460,,,,,
-461,,,,,
-462,,,,,
-463,,,,,
-464,,,,,
-465,,,,,
-466,,,,,
-467,,,,,
-468,,,,,
-469,,,,,
-470,,,,,
-471,,,,,
-472,,,,,
-473,,,,,
-474,,,,,
-475,,,,,
-476,,,,,
-477,,,,,
-478,,,,,
-479,,,,,
-480,,,,,
-481,,,,,
-482,,,,,
-483,,,,,
-484,,,,,
-485,,,,,
-486,,,,,
-487,,,,,
-488,,,,,
-489,,,,,
-490,,,,,
-491,,,,,
-492,,,,,
-493,,,,,
-494,,,,,
-495,,,,,
-496,,,,,
-497,,,,,
-498,,,,,
-499,,,,,
-500,,,,,
-501,,,,,
-502,,,,,
-503,,,,,
-504,,,,,
-505,,,,,
-506,,,,,
-507,,,,,
-508,,,,,
-509,,,,,
-510,,,,,
-511,,,,,
-512,,,,,
-513,,,,,
-514,,,,,
-515,,,,,
-516,,,,,
-517,,,,,
-518,,,,,
-519,,,,,
-520,,,,,
-521,,,,,
-522,,,,,
-523,,,,,
-524,,,,,
-525,,,,,
-526,,,,,
-527,,,,,
-528,,,,,
-529,,,,,
-530,,,,,
-531,,,,,
-532,,,,,
-533,,,,,
-534,,,,,
-535,,,,,
-536,,,,,
-537,,,,,
-538,,,,,
-539,,,,,
-540,,,,,
-541,,,,,
-542,,,,,
-543,,,,,
-544,,,,,
-545,,,,,
-546,,,,,
-547,,,,,
-548,,,,,
-549,,,,,
-550,,,,,
-551,,,,,
-552,,,,,
-553,,,,,
-554,,,,,
-555,,,,,
-556,,,,,
-557,,,,,
-558,,,,,
-559,,,,,
-560,,,,,
-561,,,,,
-562,,,,,
-563,,,,,
-564,,,,,
-565,,,,,
-566,,,,,
-567,,,,,
-568,,,,,
-569,,,,,
-570,,,,,
-571,,,,,
-572,,,,,
-573,,,,,
-574,,,,,
-575,,,,,
-576,,,,,
-577,,,,,
-578,,,,,
-579,,,,,
-580,,,,,
-581,,,,,
-582,,,,,
-583,,,,,
-584,,,,,
-585,,,,,
-586,,,,,
-587,,,,,
-588,,,,,
-589,,,,,
-590,,,,,
-591,,,,,
-592,,,,,
-593,,,,,
-594,,,,,
-595,,,,,
-596,,,,,
-597,,,,,
-598,,,,,
-599,,,,,
-600,,,,,
-601,,,,,
-602,,,,,
-603,,,,,
-604,,,,,
-605,,,,,
-606,,,,,
-607,,,,,
-608,,,,,
-609,,,,,
-610,,,,,
-611,,,,,
-612,,,,,
-613,,,,,
-614,,,,,
-615,,,,,
-616,,,,,
-617,,,,,
-618,,,,,
-619,,,,,
-620,,,,,
-621,,,,,
-622,,,,,
-623,,,,,
-624,,,,,
-625,,,,,
-626,,,,,
-627,,,,,
-628,,,,,
-629,,,,,
-630,,,,,
-631,,,,,
-632,,,,,
-633,,,,,
-634,,,,,
-635,,,,,
-636,,,,,
-637,,,,,
-638,,,,,
-639,,,,,
-640,,,,,
-641,,,,,
-642,,,,,
-643,,,,,
-644,,,,,
-645,,,,,
-646,,,,,
-647,,,,,
-648,,,,,
-649,,,,,
-650,,,,,
-651,,,,,
-652,,,,,
-653,,,,,
-654,,,,,
-655,,,,,
-656,,,,,
-657,,,,,
-658,,,,,
-659,,,,,
-660,,,,,
-661,,,,,
-662,,,,,
-663,,,,,
-664,,,,,
-665,,,,,
-666,,,,,
-667,,,,,
-668,,,,,
-669,,,,,
-670,,,,,
-671,,,,,
-672,,,,,
-673,,,,,
-674,,,,,
-675,,,,,
-676,,,,,
-677,,,,,
-678,,,,,
-679,,,,,
-680,,,,,
-681,,,,,
-682,,,,,
-683,,,,,
-684,,,,,
-685,,,,,
-686,,,,,
-687,,,,,
-688,,,,,
-689,,,,,
-690,,,,,
-691,,,,,
-692,,,,,
-693,,,,,
-694,,,,,
-695,,,,,
-696,,,,,
-697,,,,,
-698,,,,,
-699,,,,,
-700,,,,,
-701,,,,,
-702,,,,,
-703,,,,,
-704,,,,,
-705,,,,,
-706,,,,,
-707,,,,,
-708,,,,,
-709,,,,,
-710,,,,,
-711,,,,,
-712,,,,,
-713,,,,,
-714,,,,,
-715,,,,,
-716,,,,,
-717,,,,,
-718,,,,,
-719,,,,,
-720,,,,,
-721,,,,,
-722,,,,,
-723,,,,,
-724,,,,,
-725,,,,,
-726,,,,,
-727,,,,,
-728,,,,,
-729,,,,,
-730,,,,,
-731,,,,,
-732,,,,,
-733,,,,,
-734,,,,,
-735,,,,,
-736,,,,,
-737,,,,,
-738,,,,,
-739,,,,,
-740,,,,,
-741,,,,,
-742,,,,,
-743,,,,,
-744,,,,,
-745,,,,,
-746,,,,,
-747,,,,,
-748,,,,,
-749,,,,,
-750,,,,,
-751,,,,,
+����,����,���ĸ�,����,���ļ���
+1,,��������,stir-fried Eggplant,"Lightly salted eggplant stir-fried with minced green onion, garlic, and soy sauce. This is a nutritious and vitamin-rich side dish that is easy to make and great for overcoming fatigue."
+2,����,�������,Crab Marinated in Soy Sauce,"A marinated crab dish. The crab is marinated for three days in soy sauce, then the soy sauce is poured out, boiled, and poured back over the crab. It is left to sit for another three days before serving."
+3,����,������,Marinated and Grilled Beef Short Ribs,"Beef short ribs marinated in a mixture of soy sauce, green onions, garlic, black pepper, sugar and sesame oil for a few hours, then grilled. Marinated short ribs are called yangnyeom-galbi and ribs which are not marinated are called saenggalbi. Galbi-gui is also known as bulgalbi. This is one of the most popular dishes in Korea."
+4,��,������,Braised Short Ribs,"Beef short ribs cut into chunks, seasoned with soy sauce, garlic, sugar and other spices, then simmered over a long period with pieces of Korean radish, carrots, chestnuts, jujubes, and ginkgo nuts. The dish is topped with julienned egg garnish and ground pine nuts."
+5,"��,��",������,Short Rib Soup,
+6,����,��ġ����,Grilled Hairtail,"Hairtail (a long, flat silver fish) cut into 10 centimeter lengths and grilled with salt."
+7,����,��ġ����,Braised Hairtail,"Hairtail (a long, fiat silver fish) cut into l0 centimeter lengths and braised with white radish or other vegetables in soy sauce until reduced."
+8,����,���ں���,Sauteed Potato,Julienned potatoes sauteed in oil and served as a side dish.
+9,"��,��",������,Pan-fried Potato,Thin slices of potato dipped in a flour batter and pan-fried.
+10,����,��������,Braised Potato,"Cubed potatoes braised with fish or dried anchovies, soy sauce and oil. Served as a side dish."
+11,��ġ,����ġ,Mustard Leaf Kimchi,"A kimchi made of gat, a kind of mustard leaf. The stems and leaves are seasoned with pickled anchovy sauce. The strong flavor of the mustard leaf and the anchovy is what makes this kimchi popular."
+12,,�ǻ��캺��,Stir-fried Dried Shrimp,
+13,��,���,Sweet Rice Balls,"Rice cake made with glutinous rice flour, rolled into balls and cooked in boiling water. The cooked rice balls are then rolled in ground soybeans or red beans."
+14,,�������,Rolled Omelet,"Eggs mixed with chopped green onions, carrots, and onions, fried and rolled up."
+15,,�����,Steamed Eggs,"Similar to egg souffle, this steamed egg dish is made with eggs well mixed with chopped mushroom, fishcake, and other ingredients, and seasoned with saeujeot (salted shrimp) or salt. Its soft texture and beautiful color are particularly appealing to children and the elderly."
+16,"��,��",�����,Egg Soup,Soup made by adding beaten eggs and chopped green onions to a boiling meat or vegetable broth.
+17,,����Ķ���,Fried Egg,
+18,����,������,Grilled Mackerel,Mackerel sprinkled with salt and grilled.
+19,����,���������,Braised Mackerel,"Mackerel seasoned with soy sauce, green onions, garlic and red chili pepper powder, then braised over low heat until reduced."
+20,����,���縮����,Fiddlehead Namul,"Side dish of fiddleheads that have been dried, soaked in water, then lightly pan-fried and seasoned."
+21,,����������ä����,Stir-fried Dried Squid Strips,"Ojingeochae is made by seasoning squid with sugar and salt and then shredding it after it is dried. Also called ��jinmichae,�� ojingeochae is made by adding shredded squid to a boiling gochujang (red chili paste) sauce in an oily pan."
+22,,����Ƣ��,Deep-fried Chili Pepper,
+23,"��,��",����,Thick Beef Soup,Soup made from a stock of beef bones simmered for eight to twelve hours. The broth has a milky appearance and the meat is very tender. Gomtang is not seasoned during the cooking process and is served with salt and chopped green onions on the side so it can be seasoned to taste at the table. This soup is generally served with kkakdugi (a kimchi made of radishes).
+24,����,��â����,Grilled Beef Tripe,Beef tripe seasoned with spices or salt and grilled.
+25,����,��â����,Spicy Beef Tripe Hot Pot,"A spicy, flavorful hot pot of vegetables and seasoned beef tripe cooked in a beef broth."
+26,,���ޱ�,Half-dried Saury,"Gwamegi refers to saury half-dried through repeated cycles of freezing and thawing in a dark space. For this dish, remove the bones and skin the gwamegi and serve with fresh brown seaweed, garlic, green pepper, and a vinegar-based gochujang."
+27,��,���,Rice Rolls in Laver,"To make this colorful roll, rice is spread on a dried laver sheet with beef, fried egg, pickled radish, and various steamed vegetables, then rolled and cut into slices."
+28,��,��ġ������,Fried Rice with Kimchi,Rice fried with chopped kimchi. Chopped beef and other ingredients can also be added.
+29,"��,��",��ġ��,Kimchi Pancake,Fried pancakes made with finely chopped kimchi in a flour and egg batter.
+30,�,��ġ�,Kimchi Stew,A thick stew made from kimchi simmered with various kinds of meat.
+31,,��ġ��,,
+32,��ġ,��α�,Diced Radish Kimchi,"Kimchi made of diced white radish. The radish pieces are first salted and then mixed with the traditional kimchi sauce of red chili pepper powder, fish sauce, garlic, and green onions. "
+33,�����,���������,Pickled Wild Sesame Leaves,A pickled side dish made of wild sesame leaves marinated in soy sauce. Other versions include sesame leaves pickled in soybean paste or fish sauce.
+34,,������,Steamed Cockles,"This dish is prepared by placing cleaned and parboiled cockles in a bowl with the top shells removed and drizzling them with a sauce. Among the various kinds of cockles, true cockle is considered to be the best due to its chewy texture and savory taste."
+35,����,��ġ����,Braised Mackerel Pike,"Mackerel pike seasoned with green onions, garlic and a mixture of other ingredients (such as red chili pepper paste or soy sauce) and simmered over low heat."
+36,,�ʸ����߹�ħ,Shishito Peppers Salad,
+37,,�ܶ�,Honey-filled Rice Cake,"This dish is prepared by placing cleaned and parboiled cockles in a bowl with the top shells removed and drizzling them with a sauce. Among the various kinds of cockles, true cockle is considered to be the best due to its chewy texture and savory taste."
+38,��ġ,���ڱ�ġ,Radish Water Kimchi,"A slightly pink kimchi made with Chinese cabbage, thinly sliced white radish, a large amount of water, and minari (a leafy vegetable resembling parsley) to give this kimchi a distinctive a flavor."
+39,��Ÿ,������,Browned Rice,"Crusty, browned rice made from the scorched part of steamed rice that is usually stuck to the bottom of the rice pot. lt is eaten in hot water as a browned rice tea after a meal or fried as a crispy snack. Also called nurunbap."
+40,,�߰���,Spicy Stir-fried Chicken,"Chicken pieces marinated in a gochujang, and stir-fried in a flat grill pan with cabbage, sweet potato, carrots, and tteok (rice cakes). A local dish of Chuncheon city in Gangwon Province."
+41,,�߰���,Spicy Chicken Soup,"This dish features shredded chicken meat boiled with vegetables and edible plants and seasoned with chili pepper and sesame oil. To make it, a whole chicken is boiled, and the water is sieved and used as the both for the soup."
+42,,�ߺ�����,Spicy Braised Chicken,"This dish is a stew of chicken, potato, and onion with seasoning. At the end of the meal, any leftover broth is combined with rice and fried."
+43,����,��������,Grilled Deodeok,Deodoek root marinated in soy sauce and red chili pepper paste and then grilled.
+44,,��������ħ,Bellflower Root Fresh Salad,"Peeled and shredded fresh bellflower root seasoned with a mixture of sugar, vinegar, and red chili powder. This salad is often tossed with cucumbers sliced sideways as well."
+45,��,���丮��,Acorn Starch jelly,"A firm jelly made of acorn starch, often served with a seasoned soy sauce."
+46,,���׶���,Meat Fritters,"A mixture of ground beef or pork and minced vegetables molded into round shapes, flour-coated, egg-battered, and pan-fried."
+47,�,�����,Frozen Pollack Stew,"A spicy stew made of pollack and vegetables. The pollack is first cooked in a clear broth, then white radish, red chili pepper powder or red chili pepper paste, garlic and green onions are added and cooked until thick."
+48,�,�����,Soybean Paste Stew,A stew made of soybean paste (doenjang) and various vegetables. Similar to soybean paste soup (doenjangguk) but much thicker.
+49,,�κα�ġ,Bean Curd with stir-fried Kimchi,Wellaged sour kimchi stir-fried with thinly-sliced pork shoulder or belly and served with warm bean curd.
+50,����,�κ�����,Braised Pan-fried Dubu,A dish of pan-fried slices of dubu (soybean curd / tofu) covered with soy sauce and braised until the sauce is absorbed by the dubu.
+51,�߰���,��������,Braised Peanuts,"For this dish, peanuts are boiled in water and braised in a mixture of soy sauce, syrup, sugar, and garlic over low heat. Not only does it taste great, but it is packed with nutrients as well, as 10 peanuts meet the daily requirement for vitamin E."
+52,����,������,Grilled Short Rib Meat Patties,"Square patties made of ground beef rib meat mixed with a seasoning of soy sauce, sugar, green onions, garlic, sesame seeds, and sesame oil, and then grilled."
+53,����,����_���α�,Sliced Rice Pasta Soup with Dumplings,A soup of sliced ovals of rice pasta in a clear beef broth with dumplings.
+54,����,����ġ,Brochette of Rice Pasta with Vegetables,A grilled brochette of rice pasta and vegetables.
+55,����,������,Stir-fried Rice Cake,Sliced rice cake bar (garaetteok) or thin rice cake sticks (Tteokbokkitteok) stir-fried in a spicy gochujang sauce with vegetables and fish cakes.
+56,,���,"Ramen, instant noodles",ready-to-eat food with a separate powder soup or boiled noodles in water after cooking noodles in steam and frying them in oil
+57,,����,Stir-fried Instant Noodle,"This dish is tteokbokki with ramen noodles. Tteokbokki is a spicy dish made with rice cake, vegetables, and fish cake, all stir-fried together in a gochujang (red chili paste) sauce. It is a popular snack favored by children and women."
+58,,������,Buckwheat Noodles,"A local specialty of Gangwon Province, Makguksu (buckwheat noodles) is made of buckwheat noodles in a kimchi soup. Gangwon Province is famous for its buckwheat noodle dishes, as it is a highland region with an environment ideal for growing buckwheat."
+59,����,����,Steamed Dumplings,"Korean dumplings made of thinly rolled flour dough folded with a filling of ground meat and vegetables. Served boiled, steamed, deep-fried, or pan-fried."
+60,"��,��",�ſ���,Spicy Fish Stew,"A traditional fish stew seasoned generously with red chili powder or gochujang. The fish most commonly used here are haddock, rock cod, and pollack."
+61,�з�,�۰�,Sea Squirt,Sea squirt has red leathery skin but the inside flesh is yellow and soft. The yellow flesh is a delicacy and is served raw with a spicy dipping sauce of vinegared red chili pepper paste.
+62,����,���߸���������,Braised Quail Eggs in Soy Sauce,"Boiled and peeled quail eggs braised in a mixture of soy sauce, chopped garlic, ginger, sugar, and water, this popular Korean side dish is usually eaten with rice."
+63,����,��ġ����,Sauteed Dried Anchovies,A side dish of dried anchovies pan-fried with soy sauce or red chili pepper paste and glazed with sugar or maltose syrup.
+64,"��,��",����,Radish and Beef Soup,A soup made of white radish and seasoned beef.
+65,��ä,����ä,Julienned Radish Salad,"A salad of julienned white radish dressed with a mixture of red chili pepper powder, vinegar, salt, and sugar. Also called muchae-muchim."
+66,��,���ø�,Buckwheat Noodles in Chilled Broth,A soup with buckwheat noodles and various toppings served in a chilled broth. The version with a spicy sauce instead of the soup is called bibim��naengmyeon.
+67,ȸ,��ȸ,Cold Raw Fish Soup,"In this dish, sliced fish and vegetables are mixed with seasoned spicy hot pepper paste and cold soup is added to it. Whitesaddled reeffish, squid, conch, cuttlefish, and abalone are commonly used."
+68,"��,��",�̿���,Seaweed Soup,"A soup made of seaweed that is soaked, drained, then cooked in a broth of beef or dried anchovies. This soup is traditionally given to mothers after childbirth."
+69,��ä,�̿��ٱ⺺��,Spicy Seaweed,This is desalinated brown seaweed stems stir-fried in a pan. The affordability and chewy texture of this food makes it an ideal side dish.
+70,��ġ,���߱�ġ,Chinese Cabbage Kimchi,"The most basic type of kimchi, made of whole Chinese cabbages. The cabbages are cut in half and then salted or soaked in salt water. Alter the leaves have lost some of their water, a mixture of julienned white radish, garlic, red chili pepper powder, green onions, fish sauce and ginger is spread over the layers of leaves. The cabbages are put in jars and left to season until the flavor is fully absorbed."
+71,��ġ,���ġ,White Chinese Cabbage Kimchi,A version of cabbage kimchi with very small amounts of red chili pepper powder used only for seasoning the julienned radishes in the sauce.
+72,��,����,Chinese Cabbage Wraps with Pork,Park and kimchi wrapped in steamed cabbage leaves. Also called jeyuk-bossam or kimchi-bossam.
+73,��ġ,���߱�ġ,Chive Kimchi,"A kimchi made of chives mixed with fish sauce, red chili pepper powder, crushed garlic and some glutinous rice starch."
+74,"��,��",�Ͼ���,Dried Pollack Soup,"A soup made of dried pollack shredded by hand in a clear broth with garlic, green onions and a beaten egg added just before serving."
+75,����,�Ұ���,Bulgogi (Korean Barbecue),"Thin slices of beef marinated in a mixture of soy sauce, sugar, green onions, garlic, black pepper, sesame seeds, and sesame oil and grilled at the table. Bulgogi is one of Korea's most popular beef dishes."
+76,��,����ø�,Mixed Buckwheat Noodles,"Chilled buckwheat noodles mixed in a spicy sauce and topped with sliced cold meat, sliced Korean pear, cucumbers, and other vegetables."
+77,��,�����,Bibimbap (Rice Mixed with Vegetables and Beef),"One of the most popular Korean dishes, bibimbap consists of a bowl of rice topped with fresh and cooked vegetables and red chili pepper paste. Everything is mixed together before eating. Seasoned raw beef, grilled beef, or a fried egg can also be added. There are many styles and regional variations of this dish. The cities of Jeonju and Jinju are famous for their distinctive bibimbap and there are other variations such as hot stone pot (dolsot) bibimbap, soybean sprout bibimbap, and vegetable bibimbap. Goldongban is the royal court term for bibimbap."
+78,ȸ,�곫��,Live Octopus,"Live octopus cut into bite-sized pieces and eaten with a dipping oil or vinegar-based gochujang (red chili paste) sauce. This is a popular side dish with soju, a clear, distilled Korean alcoholic beverage."
+79,����,����,Grilled Pork Belly,Fat-streaked pork belly grilled and dipped in salt or ssamjang (red soybean paste dip). Also eaten wrapped in lettuce leaves.
+80,"��,��",�����,Chicken Ginseng Soup,"A soup made of a whole young chicken stuffed with ginseng, sticky rice, garlic, jujubes (Korean dates), and chestnuts, then cooked in a clear broth. With meat, vegetables, rice and hot soup all in one dish, this soup is popular for its wholesome flavor and health benefits."
+81,��,���캺����,"shrimp fried rice	",Cooked rice pan-fried with chopped shrimp and vegetables.
+82,������,����Ƣ��,Deep-fried Shrimp,"Shrimp coated in a flour and egg batter, then deep-fried."
+83,"��,��",������,Pan-fried Fish Fillets,"Fish fillet coated in flour, dipped in egg, and pan-fried. Commonly used fish for this dish include halibut, cod, pollack and shrimp. Also called jeonyueo."
+84,,�Ҽ�������,"	stir-fried sausage platter","Julienned potatoes sauteed in oil and served as a side dish. A stir-fry of mushrooms, onions and beef with seasoned soy sauce."
+85,��,����,Half-moon Rice Cake,"Half-moon shaped rice cakes made of rice flour dough stuffed with various fillings. A traditional festival dish served on Chuseok, the Korean harvest festival."
+86,����,����,Boiled Beef Slices,"Pieces of beef cooked in boiling water, then cut into thin slices and served hot."
+87,��û��,������,Cinnamon Punch with Dried Persimmon,"A sweet punch is made of ginger, cinnamon sticks and sugar simmered together in water. Dried persimmons are added after cooling and the punch is served with a few pine nuts floating on top. One of Korea's most popular dessert drinks."
+88,������,������,Sujebi Soup,"A soup with summer squash, other vegetables, and small dumplings. The dumplings are made of flour dough that is hand broken into little pieces and dropped into the hot soup right before serving."
+89,����,���ֳ���,Mung Bean Sprout Namul,A side dish of mung bean sprouts blanched in salt water and seasoned.
+90,����,����,Korean-style Blood Sausage,"A sausage of pork blood, vegetables, and rice or noodles."
+91,�,���κ��,Spicy Soft Dubu Stew,"A spicy red stew with soft dubu (soybean curd / tofu), soybean paste (doenjang), fish sauce, clams, summer squash, and some meat."
+92,,�ñ�ġ����,Cooked Spinach Namul,"Parboiled spinach seasoned with salt, chopped green onion and garlic, sesame oil, and sesame seeds. Spinach is used to make salads and as a filling for gimbap."
+93,�,�÷��ⱹ,Dried Radish Leaf Soup,A soup of dried radish or Chinese cabbage leaves that have been boiled in water and added to a soybean paste (doenjang) broth.
+94,��û��,����,Rice Punch,"A traditional sweet dessert drink made of malt and rice. When served, there are often rice grains floating on top. Also called dansul."
+95,,�˹�,Fish Roe Rice,"Warm rice topped with raw fish roe, thin slices of danmuji (yellow pickled radish), julienned cucumber and carrot, and chopped kimchi and served in a heated ttukbaegi (earthen pot) greased with sesame oil. The way the fish eggs pop when chewed makes this dish unique and fun to eat."
+96,,��ȣ�ں���,Stir-fried Zucchini,"Sliced zucchini stir-fried with chopped garlic and green onion and seasoned with salted shrimp in an oiled pan. A vegetable that reaches its peak in summer, zucchini is tasty and nutritious, as it is rich in vitamins A and C. It is also good for digestion."
+97,�Ѱ�,���,Deep-fried Honey Cookies,"Deep-fried cookies made from a dough of wheat flour, sesame oil, soju, and honey. The cookies are pressed in a wood mold into round or flower shapes, then deep-fried and dipped in honey."
+98,��,���,Sweet Rice with Nuts and Jujubes,"Steamed sticky rice made with chestnuts, jujubes (Korean dates), honey, pine nuts and cinnamon. This dish is a sweet snack similar to rice cake."
+99,����,������,Spicy Seasoned Crab,Crabs marinated in a spicy sauce with a large amount of red chili pepper powder.
+100,,���ġŲ,Seasoned Fried Chicken,"This dish is seasoned chicken cut into pieces, deep- fried, and mixed with soy sauce, gochujang, or other sauces. It has a mild yet spicy taste that makes it ideal for a snack, with or without alcoholic beverages."
+101,,�����,Stir-fried Fish Cake,Season the fish cake and fry it.
+102,,��������,Glazed Lotus Roots,"Round slices of lotus root simmered in soy sauce, sugar and rice wine until glazed. Garnished with sesame seeds."
+103,,��������,Chilled Buckwheat Noodles with Radish Kimchi,Buckwheat noodles served in a chilled broth with chopped radish kimchi.
+104,,������ġ,Young Summer Radish Kimchi,A kimchi made of young summer radish (smaller roots with larger leaves). This kimchi has a lot of water and is lightly seasoned.
+105,,���̼ҹ���,Stuffed Cucumber Kimchi,"A kimchi made of cucumbers cut into three to four sections, slit lengthwise, and stuffed with a filling of green onions, garlic, ginger and red chili pepper powder."
+106,,��¡��ä����,Sauteed Dried Squid Strips,Thin strips of dried squid sauteed with soy sauce or red chili pepper paste.
+107,,��¡��Ƣ��,Deep-fried?Squid?,Squid coated in flour and fried
+108,,�������,Glazed Burdock,"Burdock simmered in soy sauce, sesame oil, and sugar until glazed and garnished with sesame seeds and red chili pepper threads."
+109,,�����ʹ�,Fried Tofu Rice Balls,Season the fried tofu with rice.
+110,,������,Spicy Beef and Leek Soup,"A soup made with beef, green onions, fiddleheads, and other vegetables in a spicy red broth seasoned with red chili pepper powder, garlic, and soy sauce."
+111,,��ȸ,Korean Beef Steak Tartare,"Thinly sliced raw beef seasoned with soy sauce, salt and sesame oil. Similar to steak tartare, this dish is usually served with julienned Korean pear and garlic."
+112,,��ġ����,Banquet Noodles,"A simple noodle dish of thin wheat noodles in a clear broth and topped with julienned egg garnish, sauteed beef, julienned summer squash and mushrooms. This dish was traditionally served at large banquets and feasts."
+113,,����,Multi-grain Rice,rice cooked with mixed grains
+114,,��ä,Japchae (Clear Noodles Stir-fried with Vegetables),"Vegetables and beef pan-fried separately then mixed with clear noodles, soy sauce, and other seasonings. One of the most popular party dishes, this dish is often seen at special banquets."
+115,,����,Grilled Freshwater Eel,"Eel marinated in a sauce of red chili pepper paste, soy sauce, sugar, green onions, garlic and sesame oil and grilled. The eel can also be lightly steamed, coated with a mixture of soy sauce and sugar, and then grilled."
+116,,������,Beef Chunks Braised in Soy Sauce,Pieces of beef braised in soy sauce and water until the meat turns dark and salty. The meat is then cut into smaller pieces for serving. This is one of the most traditional and popular beef side dishes.
+117,,������,Rice Porridge with Abalone,A savory rice porridge cooked with minced abalone.
+118,,����,Pickled Seafood,Sauce made of various kinds of fish or seafood that have been pickled in salt and fermented. This sauce can be served as a side dish or used as a seasoning for other dishes.
+119,,��������,Cooked Pork,Pork. Also refers to thinly sliced cooked pork.
+120,,��������,Roasting clams,bake clams on fire. They put cheese on top of clams and put spicy sauce on them.
+121,,���ⱸ��,Grilled Yellow Croaker,Croaker salted and grilled.
+122,,����,Glazed Pig's Feet,"Pig's feet cooked in soy sauce, sugar, ginger and garlic until glazed."
+123,,�ֲٹ̺���,Stir-fried Small Octopus,Seasoned webfoot octopus and stir-fry it
+124,,�ָԹ�,Rice ball,marinate rice into a lump and shape
+125,,¥���,Black-bean-sauce noodles,Stir-fry vegetables and Black-bean-sauce over high heat and put them in noodles.
+126,,«��,Spicy Seafood Noodle Soup,Boil the noodles in the spicy soup with vegetables and seafood.
+127,,�̸�,Spicy Cold Chewy Noodle,Mix the chewy noodles with vegetables and spicy seasoning.
+128,,���,Braised Spicy Chicken with Vegetables,Season the chicken with soy sauce or spicy sauce and cook it with vegetables
+129,,�Ѱ���ġ,Whole Radish Kimchi,"A kimchi made of young white radishes used whole with the stems and leaves. The radishes are seasoned with red chili pepper powder, green onions, garlic, ginger and fish sauce, then left to cure. lt literally means bachelor kimchi, because the stems are reminiscent of the long ponytails of unmarried men in traditional times. Also called altari kimchi."
+130,,�߾���,Loach Soup,"A thick, strongly flavored soup made of fresh loach simmered with vegetables, soybean paste (doenjang), and red chili pepper paste."
+131,,Į����,Home-style Noodle Soup,"A soup made of wheat flour noodles flattened and cut by hand, served in a hot chicken or beef broth and topped with clams, julienned summer squash, and a seasoning sauce."
+132,,�ڴٸ�����,Simmered Half-dried Pollack,"Half-dried pollack marinated in a sauce of red chili pepper paste, soy sauce, sugar, green onions, ginger, sesame oil and black pepper, then simmered over low heat."
+133,,�ᱹ��,Noodles in Chilled White Bean Soup,Chilled white bean soup made of pureed soybeans served with noodles and garnished. with julienned cucumber and watermelon. Sometimes white sesame seeds are added to the puree. This dish is eaten in the hot summer.
+134,,�ᳪ����,Soybean Sprout Soup,A clear soup with soybean sprouts.
+135,,�ᳪ����ħ,Seasoned Soybean Sprout Namul,"Blanched bean sprouts seasoned with green onions, garlic, soy sauce and sesame oil. This is one of the most common side dishes served in Korean homes."
+136,,���ڹ�,Glazed Black Beans,A side dish made of black beans simmered in soy sauce and sugar until glazed.
+137,,�ı�ġ,Green Onion Kimchi,"A kimchi made with lightly salted green onions seasoned with pickled anchovy sauce, garlic and red chili pepper powder."
+138,,����,Green Onion Pancake,"Pancakes made of an egg, wheat flour and rice flour batter pan-fried with green onions, chives, beef, clams, mussels and other ingredients."
+139,,����,Pressed Meat,Beef or pork cooked in boiling water and pressed. Served in thin slices with seasoned soy sauce.
+140,,����,Pizza,Put cheese and vegetable meat on top of dough and cook.
+141,,�Ѱ�,Traditional Sweets,Many types of traditional Korean sweets and cookies. They vary according to ingredients and preparation method.
+142,,�ع���,Braised Spicy Seafood,"Cook seafood such as crabs, conch, and octopus with spicy seasoning with rich vegetables."
+143,,ȣ����,Pan-fried Summer Squash,"Squash sliced into thin round pieces, coated in flour and egg batter, and pan-fried."
+144,,ȣ����,Pumpkin Porridge,"A porridge made of fully ripe pumpkins steamed and mashed, then mixed with wheat flour or glutinous rice flour and simmered until thick. Sweetened with sugar or red beans."
+145,,ȫ�ħ,Sliced Raw Skate Salad,Cut the skate and season it with vegetables and spicy sauce.
+146,,Ȳ�±���,Seasoned and Grilled Dried Pollack,"Freeze-dried pollack grilled with a seasoning of soy sauce, red chili pepper paste, green onions, garlic, sesame oil, sugar and black pepper."
+147,,ȸ��ħ,Spicy Raw Fish Salad,Season sashimi with vegetables and spicy sauce.
+148,,�Ķ��̵�ġŲ,Fried chicken,Coat the fried chicken with seasoned batter and fry it. have a variety of flavors
+149,,��������,Smoked Duck,"smoked duck with soft, low calories"
