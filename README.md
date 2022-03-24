@@ -1,9 +1,9 @@
-# pjt_k_food
-korean food classification and AI service project
+
 ---
 # TO DO     
 
-    * 데이터 split ( train/ val/ test )
+* 데이터 split ( train/ val/ test ) -    train/val kfold
+
 ```bash
 ㄴtrain     
     ㄴclass1     
@@ -29,3 +29,16 @@ korean food classification and AI service project
         ㄴjpg
         ㄴjpg
 ```
+* data preprocessing 
+    224*224*3
+
+
+* 음식 정보 150개 이름 통일, 해당하는 음식 정보 저장
+
+
+
+
+
+
+
+
