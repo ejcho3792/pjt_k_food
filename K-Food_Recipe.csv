@@ -50,35 +50,35 @@ index,RECIPE_ID,RECIPE_NM_KO,IMG_URL,Allergie
 49,114,µÎºÎ±èÄ¡,http://file.okdab.com/UserFiles/searching/recipe/023000.jpg,
 50,482,µÎºÎÁ¶¸²,http://file.okdab.com/UserFiles/searching/recipe/158600.jpg,
 51,None,¶¥ÄáÁ¶¸²,None,None
-52,128,¶±°¥ºñ,http://file.okdab.com/UserFiles/searching/recipe/027800.jpg,"¼è°í±â, ¾çÆÄ, ÆÄ, ¸¶´Ã"
-53,492,¶±±¹_¸¸µÎ±¹,http://file.okdab.com/UserFiles/searching/recipe/163500.jpg,"°è¶õ, ÆÄ, ¸¶´Ã, µÅÁö°í±â, µÎºÎ"
-54,397,¶±²¿Ä¡,http://file.okdab.com/UserFiles/searching/recipe/109300.jpg,"¼è°í±â, ¸¶´Ã"
-55,241,¶±ººÀÌ,http://file.okdab.com/UserFiles/searching/recipe/061400.jpg,"¾çÆÄ, ÆÄ"
-56,119,¶ó¸é,http://file.okdab.com/UserFiles/searching/recipe/026200.jpg,"¹Ð, ¸¶´Ã, ÆÄ"
-57,306,¶óººÀÌ,http://file.okdab.com/UserFiles/searching/recipe/078500.jpg,"¹Ð, ÆÄ, ¸¶´Ã, ¾î¹¬"
+52,128,¶±°¥ºñ,http://file.okdab.com/UserFiles/searching/recipe/027800.jpg,¼è°í±â
+53,492,¶±±¹_¸¸µÎ±¹,http://file.okdab.com/UserFiles/searching/recipe/163500.jpg,"°è¶õ, µÅÁö°í±â, ´ëµÎ"
+54,397,¶±²¿Ä¡,http://file.okdab.com/UserFiles/searching/recipe/109300.jpg,¼è°í±â
+55,241,¶±ººÀÌ,http://file.okdab.com/UserFiles/searching/recipe/061400.jpg,None
+56,119,¶ó¸é,http://file.okdab.com/UserFiles/searching/recipe/026200.jpg,¹Ð
+57,306,¶óººÀÌ,http://file.okdab.com/UserFiles/searching/recipe/078500.jpg,"¹Ð, ´ëµÎ"
 58,12,¸·±¹¼ö,http://file.okdab.com/UserFiles/searching/recipe/002400.jpg,"¹Ð, ¼è°í±â, °è¶õ"
 59,198,¸¸µÎ,http://file.okdab.com/UserFiles/searching/recipe/048300.jpg,"»õ¿ì, °è¶õ, ¹Ð"
-60,235,¸Å¿îÅÁ,http://file.okdab.com/UserFiles/searching/recipe/058400.jpg,"Á¶°³·ù, µÎºÎ, ÆÄ, ¸¶´Ã"
+60,235,¸Å¿îÅÁ,http://file.okdab.com/UserFiles/searching/recipe/058400.jpg,"Á¶°³·ù, ´ëµÎ"
 61,None,¸Û°Ô,None,None
 62,None,¸ÞÃß¸®¾ËÀåÁ¶¸²,None,None
 63,38,¸êÄ¡ººÀ½,http://file.okdab.com/UserFiles/searching/recipe/007300.jpg,None
-64,202,¹«±¹,http://file.okdab.com/UserFiles/searching/recipe/049400.jpg,"¼è°í±â,  ÆÄ, ¸¶´Ã"
-65,344,¹«»ýÃ¤,http://file.okdab.com/UserFiles/searching/recipe/088000.jpg,"ÆÄ, ¸¶´Ã"
+64,202,¹«±¹,http://file.okdab.com/UserFiles/searching/recipe/049400.jpg,¼è°í±â
+65,344,¹«»ýÃ¤,http://file.okdab.com/UserFiles/searching/recipe/088000.jpg,None
 66,11,¹°³Ã¸é,http://file.okdab.com/UserFiles/searching/recipe/002100.jpg,"¼è°í±â, °è¶õ"
 67,None,¹°È¸,None,None
-68,21,¹Ì¿ª±¹,http://file.okdab.com/UserFiles/searching/recipe/004700.jpg,"¼è°í±â, ¸¶´Ã"
+68,21,¹Ì¿ª±¹,http://file.okdab.com/UserFiles/searching/recipe/004700.jpg,¼è°í±â
 69,None,¹Ì¿ªÁÙ±âººÀ½,None,None
-70,62,¹èÃß±èÄ¡,http://file.okdab.com/UserFiles/searching/recipe/012700.jpg,"ÆÄ, ¸¶´Ã"
-71,88,¹é±èÄ¡,http://file.okdab.com/UserFiles/searching/recipe/016400.jpg,"¸¶´Ã, ÆÄ"
-72,51,º¸½Ó,http://file.okdab.com/UserFiles/searching/recipe/010700.jpg,"µÅÁö°í±â, »õ¿ì, ÆÄ, ¸¶´Ã, ±¼"
-73,86,ºÎÃß±èÄ¡,http://file.okdab.com/UserFiles/searching/recipe/016200.jpg,¸¶´Ã
-74,58,ºÏ¾ù±¹,http://file.okdab.com/UserFiles/searching/recipe/011800.jpg,"µÎºÎ, °è¶õ, ÆÄ, ¸¶´Ã"
-75,107,ºÒ°í±â,http://file.okdab.com/UserFiles/searching/recipe/020500.jpg,"¼è°í±â, ÆÄ, ¸¶´Ã"
-76,495,ºñºö³Ã¸é,http://file.okdab.com/UserFiles/searching/recipe/166300.jpg,"°è¶õ, ¸¶´Ã, ÆÄ"
-77,1,ºñºö¹ä,http://file.okdab.com/UserFiles/searching/recipe/000200.jpg,"ÆÄ, ¸¶´Ã, °è¶õ, ¼Ò°í±â"
+70,62,¹èÃß±èÄ¡,http://file.okdab.com/UserFiles/searching/recipe/012700.jpg,None
+71,88,¹é±èÄ¡,http://file.okdab.com/UserFiles/searching/recipe/016400.jpg,None
+72,51,º¸½Ó,http://file.okdab.com/UserFiles/searching/recipe/010700.jpg,"µÅÁö°í±â, »õ¿ì, ±¼"
+73,86,ºÎÃß±èÄ¡,http://file.okdab.com/UserFiles/searching/recipe/016200.jpg,None
+74,58,ºÏ¾ù±¹,http://file.okdab.com/UserFiles/searching/recipe/011800.jpg,"´ëµÎ, °è¶õ"
+75,107,ºÒ°í±â,http://file.okdab.com/UserFiles/searching/recipe/020500.jpg,¼è°í±â
+76,495,ºñºö³Ã¸é,http://file.okdab.com/UserFiles/searching/recipe/166300.jpg,°è¶õ
+77,1,ºñºö¹ä,http://file.okdab.com/UserFiles/searching/recipe/000200.jpg,"°è¶õ, ¼Ò°í±â"
 78,None,»ê³«Áö,None,None
 79,None,»ï°ã»ì,None,None
-80,133,»ï°èÅÁ,http://file.okdab.com/UserFiles/searching/recipe/029400.jpg,"´ß°í±â, ¸¶´Ã, ÆÄ"
+80,133,»ï°èÅÁ,http://file.okdab.com/UserFiles/searching/recipe/029400.jpg,´ß°í±â
 81,484,»õ¿ìººÀ½¹ä,http://file.okdab.com/UserFiles/searching/recipe/159000.jpg,"»õ¿ì, ¿ÀÂ¡¾î, Á¶°³·ù, ±¼"
 82,None,»õ¿ìÆ¢±è,None,None
 83,417,»ý¼±Àü,http://file.okdab.com/UserFiles/searching/recipe/117900.jpg,"°è¶õ, ¹Ð"
@@ -86,18 +86,18 @@ index,RECIPE_ID,RECIPE_NM_KO,IMG_URL,Allergie
 85,151,¼ÛÆí,http://file.okdab.com/UserFiles/searching/recipe/033400.jpg,´ëµÎ
 86,None,¼öÀ°,None,None
 87,171,¼öÁ¤°ú,http://file.okdab.com/UserFiles/searching/recipe/039800.jpg,None
-88,10,¼öÁ¦ºñ,http://file.okdab.com/UserFiles/searching/recipe/001900.jpg,"¹Ð, ÆÄ"
-89,269,¼÷ÁÖ³ª¹°,http://file.okdab.com/UserFiles/searching/recipe/068300.jpg,"ÆÄ, ¸¶´Ã"
-90,161,¼ø´ë,http://file.okdab.com/UserFiles/searching/recipe/036000.jpg,"¿ÀÂ¡¾î, ¼è°í±â, µÎºÎ, ÆÄ, ¸¶´Ã"
-91,487,¼øµÎºÎÂî°³,http://file.okdab.com/UserFiles/searching/recipe/160800.jpg,"µÎºÎ, °è¶õ, »õ¿ì"
-92,455,½Ã±ÝÄ¡³ª¹°,http://file.okdab.com/UserFiles/searching/recipe/143700.jpg,ÆÄ
+88,10,¼öÁ¦ºñ,http://file.okdab.com/UserFiles/searching/recipe/001900.jpg,¹Ð
+89,269,¼÷ÁÖ³ª¹°,http://file.okdab.com/UserFiles/searching/recipe/068300.jpg,None
+90,161,¼ø´ë,http://file.okdab.com/UserFiles/searching/recipe/036000.jpg,"¿ÀÂ¡¾î, ¼è°í±â, ´ëµÎ"
+91,487,¼øµÎºÎÂî°³,http://file.okdab.com/UserFiles/searching/recipe/160800.jpg,"´ëµÎ, °è¶õ, »õ¿ì"
+92,455,½Ã±ÝÄ¡³ª¹°,http://file.okdab.com/UserFiles/searching/recipe/143700.jpg,None
 93,None,½Ã·¡±â±¹,None,None
 94,None,½ÄÇý,None,None
 95,None,¾Ë¹ä,None,None
 96,None,¾ÖÈ£¹ÚººÀ½,None,None
 97,261,¾à°ú,http://file.okdab.com/UserFiles/searching/recipe/066400.jpg,¹Ð
 98,5,¾à½Ä,http://file.okdab.com/UserFiles/searching/recipe/000800.jpg,None
-99,405,¾ç³ä°ÔÀå,http://file.okdab.com/UserFiles/searching/recipe/111900.jpg,"°Ô, ¸¶´Ã, ÆÄ"
+99,405,¾ç³ä°ÔÀå,http://file.okdab.com/UserFiles/searching/recipe/111900.jpg,°Ô
 100,None,¾ç³äÄ¡Å²,None,None
 101,395,¾î¹¬ººÀ½,http://file.okdab.com/UserFiles/searching/recipe/108700.jpg,
 102,93,¿¬±ÙÁ¶¸²,http://file.okdab.com/UserFiles/searching/recipe/017700.jpg,
