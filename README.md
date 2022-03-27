@@ -1,41 +1,22 @@
 
----
-# TO DO     
+if 문 사용하기
 
-* 데이터 split ( train/ val/ test ) -    train/val kfold
+<ul>
 
-```bash
-ㄴtrain     
-    ㄴclass1     
-        ㄴjpg    
-        ㄴjpg     
-    ㄴclass2     
-        ㄴjpg     
-        ㄴjpg     
+<li>요리명 : {{foodname}}</li>
+<li>요리명(영문) : {{fooden}}</li>
+<li>요리설명(영문) : {{foodinen}}</li>
+<li>요리재료 : {{foodsource}}</li>
 
-ㄴvalidation     
-    ㄴclass1
-        ㄴjpg
-        ㄴjpg
-    ㄴclass2
-        ㄴjpg
-        ㄴjpg
+<script>
+    if ({{allergie}}!=[] ) {
+        <li>※경고 : 알러지 유발재료 {{allergie}} 가 포함되어 있을 수 있습니다.</li>
+      } else {
+        <li></li>
+      }
+</script>
 
-ㄴtest
-    ㄴclass1
-        ㄴjpg
-        ㄴjpg
-    ㄴclass2
-        ㄴjpg
-        ㄴjpg
-```
-* data preprocessing 
-    224*224*3
-
-
-* 음식 정보 150개 이름 통일, 해당하는 음식 정보 저장
-
-
+</ul>
 
 
 
