@@ -91,7 +91,7 @@
 			<h5 class="subtitle">Select Your Language</h5>
 		</section>
 		<div class="container file-upload">
-			<div class="img/INFOODD_f.jpg" style="width: 65%; margin: 0 auto;">
+			<div class="image-upload-wrap" style="width: 65%; margin: 0 auto;">
 				<input
 					class="file-upload-input"
 					type="file"
@@ -235,7 +235,7 @@
 				if (input.files && input.files[0]) {
 					var reader = new FileReader();
 					reader.onload = function (e) {
-						$('.drag-text').hide();
+						$('.image-upload-wrap').hide();
 						$('.file-upload-image').attr('src', e.target.result);
 						$('.file-upload-content').show();
 						$('.image-title').html(input.files[0].name);
