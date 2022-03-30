@@ -1,5 +1,5 @@
 body {
-	font-family: sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 	background-color: #fff;
 }
 .file-upload {
@@ -74,7 +74,7 @@ body {
 	font-weight: 100;
 	text-transform: uppercase;
 	color: #15824b;
-	font-family: NanumSquareR;
+	font-family: 'Ubuntu', sans-serif;
 	font-size: 1.5rem;
 	line-height: 1.53;
 	text-align: center;
@@ -117,7 +117,7 @@ body {
 }
 
 .navbar-light .navbar-brand {
-	font-family: NanumSquareR;
+	font-family: 'Ubuntu', sans-serif;
 	line-height: 1.68;
 	text-align: left;
 	color: #35465d;
@@ -132,14 +132,14 @@ body {
 }
 
 .title {
-	font-family: NanumSquareR;
+	font-family: 'Ubuntu', sans-serif;
 	line-height: 1.67;
 	text-align: center;
 	color: #35465d;
 }
 
 .subtitle {
-	font-family: NanumSquareR;
+	font-family: 'Ubuntu', sans-serif;
 	line-height: 1.53;
 	text-align: center;
 	color: #35465d;
@@ -156,17 +156,19 @@ body {
 }
 
 .github-link {
-	font-family: NanumSquareR;
-	font-size: 1.5rem;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: bolder;
+	font-size: 1.0rem;
 	line-height: 1.71;
 	text-align: center;
-	color: #2fb004;
+	color: #000000;
 	text-decoration: underline;
 }
 
 .github-link: hover {
-	font-family: NanumSquareR;
-	font-size: 1.5rem;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: bolder;
+	font-size: 1.0rem;
 	line-height: 1.71;
 	text-align: center;
 	color: #2fb004;
@@ -174,7 +176,7 @@ body {
 }
 
 .INFOODD-icon {
-	width: 8%
+	width: 10%
 }
 
 
@@ -200,7 +202,7 @@ body {
 
 .upload-text {
 	width: 50%;
-	font-family: NanumSquareR;
+	font-family: 'Ubuntu', sans-serif;
 	font-size: 1.6 rem;
 	line-height: 1.53;
 	text-align: center;
